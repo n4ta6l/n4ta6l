@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @n4ta6l
-- 👀 I’m interested in Bioinformatics and computational biology
-- 🌱 I’m currently learning : Bioinformatics tools 
-- 💞️ I’m looking to collaborate on : 
+- 👀 I’m interested in Bioinformatics and Computational biology
+- 🌱 I’m currently learning : Bioinformatics tools and analayses
+- 💞️ I’m looking to collaborate on : Bioinformatics projects
 - 📫 How to reach me : nihitaggarwal90@gmail.com
 
 <!---
